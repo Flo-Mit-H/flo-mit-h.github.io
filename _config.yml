@@ -21,30 +21,30 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 0
+  limit: 9999
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: flo_mit_h1
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 16198136
   # telegram: your_username
-  # twitter: your_username
+  twitter: Flomith1
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: UCQz8L1JLhmu3SqmfGjKVkYw
 
 topics:
   - name: CSS
